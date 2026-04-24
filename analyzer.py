@@ -28,7 +28,7 @@ found = False
 
 for ip, count in failed_login_ips.items():
     if count >= 3:
-        print(f"⚠️ {ip} -> {count} failed login attempts")
+        print(f" {ip} -> {count} failed login attempts")
         found = True
 
 if not found:
