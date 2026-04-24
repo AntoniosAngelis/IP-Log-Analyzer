@@ -1,0 +1,7 @@
+INFO User login successful from 192.168.1.10
+ERROR Failed login attempt from 192.168.1.100
+ERROR Failed login attempt from 192.168.1.100
+ERROR Failed login attempt from 192.168.1.100
+WARNING Disk almost full
+ERROR Unauthorized access attempt from 10.0.0.5
+ERROR Failed login attempt from 192.168.1.100
